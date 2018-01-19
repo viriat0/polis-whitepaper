@@ -13,13 +13,13 @@
 <h2>Abstract</h2>
 </p>
 <p align="center">
-<h2>Disclamier</h2>
+<h2>Legal</h2>
 </p>
 <p align="center">
 <h2>Acknowledgements</h2>
 </p>
 <p align="center">
-<h2>Table of content</h2>
+<h2>Table of contents</h2>
 <ul>
 <li></li>
 <li></li>
