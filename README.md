@@ -12,7 +12,7 @@ Submit your translation with a pull request to the translations folder, with the
 ### For translation bounty:
 
 <ol type="1">
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Submit pull request with whitepaper and roadmap (Use language prefix)</li>
+  <li>On pull request add Bitcointalk ANN translation and Polis address</li>
+  <li>Contact developer team to make payment</li>
 </ol>
