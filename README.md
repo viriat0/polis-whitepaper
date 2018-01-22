@@ -9,3 +9,10 @@ If the proposal means core developing the community will vote to submit the prop
 
 Submit your translation with a pull request to the translations folder, with the prefix of translated language. Don't forget to put your polis wallet on the pull request.
 
+### For translation bounty:
+
+<ol type="1">
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
