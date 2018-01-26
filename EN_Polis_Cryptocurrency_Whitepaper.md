@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://github.com/polispay/polis/raw/master/src/qt/res/icons/bitcoin.png" alt="POLIS-LOGO"/>
 </p>
-
-<h1 style="text-align: center;">
+<p style="text-align: center;"> <h1 style="text-align: center;">
 Polis
 <br />
 Cryptocurrency Whitepaper
 </h1>
+</p>
 
 <p style="text-align: center;"><strong>VERSION 1.0</strong> <br /> <em>1Q2018</em></p>
 <p style="text-align: center;">This work is in its first version, and may be subject to modifications.</p>
@@ -34,7 +34,7 @@ Thus, it is important to clarify that the investment in cryptocurrency is high r
 
 In addition, we clarify that the team of developers of Polis, having no control over the use of currency, is not responsible of the uses that other community members, persons or institutions make of it.
 
-##Acknowledgements
+## Acknowledgements
 
 *This project would not be possible without the previous work of the Bitcoin and Dash team. We appreciate the efforts of those who made these works, we are excited about the idea of belonging to this open source community and appreciate the opportunity to contribute to these projects.*
 
@@ -42,15 +42,15 @@ In addition, we clarify that the team of developers of Polis, having no control 
 
 ## Table of Contents
 1. [A brief explanation of the The Blockchain](#1-a-brief-explanation-of-the-the-blockchain)
- 	* [1.1. Starting point](#1-a-1-a-starting-point)
- 	* [1.2. The Blockchain](#1-a-2-a-the-blockchain)
-	* [1.3. The reward system](#1-a-3-a-the-reward-system)
-	* [1.4. Decentralized government system](#1-a-4-a-decentralized-government-system)
+ 	* [1.1. Starting point](#11-starting-point)
+ 	* [1.2. The Blockchain](#12-the-blockchain)
+	* [1.3. The reward system](#13-the-reward-system)
+	* [1.4. Decentralized government system](#14-decentralized-government-system)
 2. [Introducing Polis](#2-introducing-polis)
-	* [2.1. The Initial Team](#2-a-1-a-the-initial-team)
-	* [2.2. The Community Team](#2-a-2-a-the-community-team)
-	* [2.3. Quick start distribution](#2-a-3-a-quick-start-distribution)
-	* [2.4. Block Reward Decrease Chart](#2-a-4-a-block-reward-decrease)
+	* [2.1. The Initial Team](#21-the-initial-team)
+	* [2.2. The Community Team](#22-the-community-team)
+	* [2.3. Quick start distribution](#23-quick-start-distribution)
+	* [2.4. Block Reward Decrease Chart](#24-block-reward-decrease)
 3. [Polis Parameters](#3-polis-parameters)
 4. [Cryptocurrency for a better world](#4-cryptocurrency-for-a-better-world)
 5. [Polis Market](#5-polis-market)
