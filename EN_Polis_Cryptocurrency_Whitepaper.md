@@ -22,7 +22,7 @@ A multidisciplinary team that seeks to complement each other creating synergy fo
 
 ## Abstract
 
-Polis (ticker: POLIS) is a cryptocurrency oriented towards the community. This cryptocurrency has a system of self-financing through decentralized government.  One of the main focuses is to serve as source between the digital communities and marginalized environments of the countries in development. Supported by a strong digital community and promoting financial developments, economic and digital innovation, Polis aims to be a thrust of change in the communities. This coin does not have nor will have an ICO or a “Crowdfunding”. The team of developers is maintained using the premine generated (1%) and keeping the 1% of Masternodes of the currency, ensuring that 99% will be in the hands of the community. In the future, the mode of financing the projects that will be held on this platform will be consulted with the community. 
+Polis (ticker: POLIS) is a cryptocurrency oriented towards the community. This cryptocurrency has a system of self-financing through decentralized governance.  One of the main focuses is to serve as source between the digital communities and marginalized environments of the countries in development. Supported by a strong digital community and promoting financial developments, economic and digital innovation, Polis aims to be a thrust of change in the communities. This coin does not have nor will have an ICO or a “Crowdfunding”. The team of developers is maintained using the premine generated (1%) and keeping the 1% of Masternodes of the currency, ensuring that 99% will be in the hands of the community. In the future, the mode of financing the projects that will be held on this platform will be consulted with the community. 
 
 Polis comes from the greek, and it means community, “Polis empowers people”. Polis is a cryptocurrency for the community. People thrive when they can connect and trade freely. Polis uses decentralized advanced blocks chain technology to solve important problems for our global community.
 
@@ -45,7 +45,7 @@ In addition, we clarify that the team of developers of Polis, having no control 
  	* [1.1. Starting point (A system of payment between peers)](#11-starting-point-a-system-of-payment-between-peers)
  	* [1.2. The Blockchain](#12-the-blockchain)
 	* [1.3. The reward system](#13-the-reward-system)
-	* [1.4. Decentralized government system](#14-decentralized-government-system)
+	* [1.4. Decentralized governance system](#14-decentralized-governance-system)
 2. [Introducing Polis](#2-introducing-polis)
 	* [2.1. The Initial Team](#21-the-initial-team)
 	* [2.2. The Community Team](#22-the-community-team)
@@ -89,9 +89,9 @@ The central development team of Polis is carrying out technical and economic res
 - Limit the capability to vote for a select group.
 
 
-### 1.4. Decentralized government system
+### 1.4. Decentralized governance system
 
-A Blockchain with a decentralized and self-financing government system seeks to empower the community to decide its own future. This system allows anyone to make a proposal to the community and submit it to a vote by the master nodes to direct the future of the currency and projects.
+A Blockchain with a decentralized and self-financing governance system seeks to empower the community to decide its own future. This system allows anyone to make a proposal to the community and submit it to a vote by the master nodes to direct the future of the currency and projects.
 
 ## 2. Introducing Polis
 
@@ -105,7 +105,7 @@ To read more about the mission and vision of the Polis team, you can consult the
 
 ### 2.2. The Community Team
 
-The community of Polis, has been developing spontaneously, with an impressive growth in the number of "fans" in a short time. Because of the characteristics of the essence of this currency, decentralized and democratic government that wants to achieve a substantial change in the lives of the most in need in the world, a collaborative work environment has been possible, where each member has contributed to the same community, with their time, their will, in a generous way to contribute to the common good. A concrete example is the roadmap, which has been retouched and enriched by several of the members and not exclusively by the developers. This generates value and confidence; definitely, Polis wants to be: a collaborative value-added platform in continuous development, that adds and exponentially multiplies Polis' own value.
+The community of Polis, has been developing spontaneously, with an impressive growth in the number of "fans" in a short time. Because of the characteristics of the essence of this currency, decentralized and democratic governance that wants to achieve a substantial change in the lives of the most in need in the world, a collaborative work environment has been possible, where each member has contributed to the same community, with their time, their will, in a generous way to contribute to the common good. A concrete example is the roadmap, which has been retouched and enriched by several of the members and not exclusively by the developers. This generates value and confidence; definitely, Polis wants to be: a collaborative value-added platform in continuous development, that adds and exponentially multiplies Polis' own value.
 
 ### 2.3. Quick start distribution
 
