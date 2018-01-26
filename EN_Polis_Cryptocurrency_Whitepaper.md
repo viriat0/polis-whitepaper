@@ -42,7 +42,7 @@ In addition, we clarify that the team of developers of Polis, having no control 
 
 ## Table of Contents
 1. [A brief explanation of the The Blockchain](#1-a-brief-explanation-of-the-the-blockchain)
- 	* [1.1. Starting point](#11-starting-point)
+ 	* [1.1. Starting point (A system of payment between peers)](#11-starting-point-a-system-of-payment-between-peers)
  	* [1.2. The Blockchain](#12-the-blockchain)
 	* [1.3. The reward system](#13-the-reward-system)
 	* [1.4. Decentralized government system](#14-decentralized-government-system)
@@ -50,7 +50,7 @@ In addition, we clarify that the team of developers of Polis, having no control 
 	* [2.1. The Initial Team](#21-the-initial-team)
 	* [2.2. The Community Team](#22-the-community-team)
 	* [2.3. Quick start distribution](#23-quick-start-distribution)
-	* [2.4. Block Reward Decrease Chart](#24-block-reward-decrease)
+	* [2.4. Block Reward Decrease Chart](#24-block-reward-decrease-chart)
 3. [Polis Parameters](#3-polis-parameters)
 4. [Cryptocurrency for a better world](#4-cryptocurrency-for-a-better-world)
 5. [Polis Market](#5-polis-market)
@@ -58,6 +58,7 @@ In addition, we clarify that the team of developers of Polis, having no control 
 7. [References](#7-references)
 
 ## 1. A brief explanation of the The Blockchain
+
 ### 1.1. Starting point (A system of payment between peers)
 
 In 2009 Satoshi Nakamoto publishes the base document for the creation of Bitcoins, a payment system without the need for a third party to confirm and validate the transfer through a system called "The Blockchain" (Bitcoin: A Peer -to-Peer Electronic Cash System, 2009).
