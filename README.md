@@ -6,6 +6,10 @@
 # POLIS Whitepaper
 The main purpose of this repo is to keep the community updated with the whitepaper and purpose of POLIS.
 
+## Releases
+
+- [English](https://github.com/polispay/polis-whitepaper/blob/master/EN_Polis_Cryptocurrency_Whitepaper.md)
+
 ## Submit a modification
 Fork the repository and make a pull request. The developer team will evaluate and submit the proposal.
 If the proposal means core developing the community will vote to submit the proposal.
