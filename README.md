@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/polispay/polis/raw/master/src/qt/res/icons/bitcoin.png" alt="POLIS-LOGO"/>
+</p>
+
+
 # POLIS Whitepaper
 The main purpose of this repo is to keep the community updated with the whitepaper and purpose of POLIS.
 
